@@ -86,7 +86,6 @@ header .content-fit nav ul{
 }
 .section .decorate {
     position: absolute;
-    display: flex;
 }
 #intro .content-fit {
     display: flex;
