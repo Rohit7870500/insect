@@ -87,6 +87,15 @@ header .content-fit nav ul{
 .section .decorate {
     position: absolute;
 }
+.section .decorate1 {
+    position: absolute;
+}
+.section .decorate2 {
+    position: absolute;
+}
+.section .decorate3 {
+    position: absolute;
+}
 #intro .content-fit {
     display: flex;
     gap: 30%;
